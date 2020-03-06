@@ -1,0 +1,8 @@
+{
+  "name": "@anandaroop/constants",
+  "version": "0.1.0",
+  "description": "Javascript flavored constants",
+  "main": "index.js",
+  "author": "Anandaroop Roy <anandaroop.roy+github@gmail.com>",
+  "license": "MIT"
+}
