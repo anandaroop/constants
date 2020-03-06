@@ -1,3 +1,6 @@
 # js build artifacts
 packages/javascript/index.js
 packages/javascript/src
+
+# rb build artifacts
+packages/ruby/lib

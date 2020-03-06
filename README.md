@@ -34,3 +34,9 @@ rake build
 
 # publish new versions to the package mgr repos
 rake publish
+
+# irb -I ./packages/ruby/lib -rconstants
+# Constants
+
+# node
+#
