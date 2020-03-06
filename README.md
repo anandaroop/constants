@@ -10,20 +10,20 @@
 ### Ruby
 
 ```ruby
-require 'anandaroop/constants'
+require 'constants'
 
-puts Anandaroop::Constants::Math::PI
+puts Constants::Math::PI
 ```
 
 ### Javascript
 
 ```js
-import { Math } from "@anandaroop/constants"
+import { Math } from "constants"
 
 console.log(Math.PI)
 ```
 
-## Workflow for updating and publishing
+## Desired workflow for updating and publishing
 
 ```sh
 # update the source of truth
@@ -34,9 +34,3 @@ rake build
 
 # publish new versions to the package mgr repos
 rake publish
-
-# irb -I ./packages/ruby/lib -rconstants
-# Constants
-
-# node
-#
